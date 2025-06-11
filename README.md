@@ -86,9 +86,9 @@ This repository provides a comprehensive solution for training state-of-the-art 
 ```
 YOLOv12-Classification/
 │
-├── 📓 yolo12x-cls.ipynb      # Main training notebook
-├── 📄 README.md              # Project documentation
-└── 📜 LICENSE                # MIT License
+├── 📓 yolo12x-Multi-GPU.ipynb      # Main training notebook
+├── 📄 README.md                    # Project documentation
+└── 📜 LICENSE                      # MIT License
 ```
 
 ---
